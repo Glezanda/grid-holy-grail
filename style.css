@@ -17,8 +17,11 @@ body {
 .paticka	{ background-color: #9b59b6; }
 
 /* ---------------------------------------------------- */
+
 .kontejner{
 display: grid;
+grid-column: 2 / span 3;
+grid-row: 1 / span 2;
 grid-template-columns: auto;
 grid-template-rows: repeat(3, 250px) 400px;
 gap: 30px 40px;
