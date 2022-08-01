@@ -20,5 +20,6 @@ body {
 .kontejner{
 display: grid;
 grid-template-columns: auto;
-grid-template-rows: repeat(2, 1fr);
+grid-template-rows: repeat(3, 250px) 400px;
+gap: 30px;
 }
