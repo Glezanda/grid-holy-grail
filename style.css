@@ -19,18 +19,26 @@ body {
 /* ---------------------------------------------------- */
 .hlavicka{
 	display: grid;
-	grid-template-columns: repeat(1, 1fr);
+	grid-template-columns: 50px;
+	grid-template-rows: 30px;
 }
 .hlavni{
 	display: grid;
+	grid-template-columns: 20px;
+	grid-template-rows: 30px;
 }
 .levy{
 	display: grid;
+	grid-template-columns: 20px;
+	grid-template-rows: 30px;
 }
 .pravy{
 	display: grid;
+	grid-template-columns: 20px;
+	grid-template-rows: 30px;
 }
-
 .paticka{
 	display: grid;
+	grid-template-columns: 20px;
+	grid-template-rows: 30px;
 }
