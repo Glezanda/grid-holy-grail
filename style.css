@@ -17,4 +17,19 @@ body {
 .paticka	{ background-color: #9b59b6; }
 
 /* ---------------------------------------------------- */
+.hlavicka{
+	display: grid;
+}
+.hlavni{
+	display: grid;
+}
+.levy{
+	display: grid;
+}
+.pravy{
+	display: grid;
+}
 
+.paticka{
+	display: grid;
+}
