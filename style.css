@@ -19,26 +19,26 @@ body {
 /* ---------------------------------------------------- */
 .hlavicka{
 	display: grid;
-	grid-template-columns: 0px;
+	grid-template-columns: 300px;
 	grid-template-rows: 200px;
 }
 .hlavni{
 	display: grid;
-	grid-template-columns: 0px;
-	grid-template-rows: 0px;
+	grid-template-columns: 10px;
+	grid-template-rows: 200px;
 }
 .levy{
 	display: grid;
-	grid-template-columns: 0px;
+	grid-template-columns: 100px;
 	grid-template-rows: 200px;
 }
 .pravy{
 	display: grid;
-	grid-template-columns: 0px;
+	grid-template-columns: 300px;
 	grid-template-rows: 250px;
 }
 .paticka{
 	display: grid;
-	grid-template-columns: 0px;
+	grid-template-columns: 200px;
 	grid-template-rows: 100px;
 }
