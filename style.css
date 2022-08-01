@@ -19,6 +19,7 @@ body {
 /* ---------------------------------------------------- */
 .hlavicka{
 	display: grid;
+	grid-template-columns: repeat(1, 1fr);
 }
 .hlavni{
 	display: grid;
